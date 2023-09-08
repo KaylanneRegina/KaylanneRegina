@@ -42,4 +42,4 @@
   </a> 
  </div> 
   
-   ![Snake animation](https://github.com/KayyLanne/KaylanneRegina/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/KaylanneRegina/KaylanneRegina/blob/output/github-contribution-grid-snake.svg)
