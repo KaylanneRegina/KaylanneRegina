@@ -37,9 +37,9 @@
    <a href="https://instagram.com/kaylanneregina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   
    <a href = "mailto:kayylanne.regina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-   <a href="https://kayylanne.github.io/Portfolio/"> 
+   <a href="[https://kayylanne.github.io/Portfolio/](https://www.notion.so/Oie-sou-Kaylanne-5f9c3965e26e4a62aa393c9ee5a8fe78)"> 
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> 
   </a> 
  </div> 
   
-   ![Snake animation](https://github.com/KayyLanne/KayyLanne/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/KayyLanne/KaylanneRegina/blob/output/github-contribution-grid-snake.svg)
