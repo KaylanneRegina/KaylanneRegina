@@ -23,7 +23,7 @@
    <br/> 
    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
    <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-   <img align="center" alt="GIT" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Figma-100000?style=for-the-badge&logo=Figma&logoColor=FFFFFF&labelColor=6587FF&color=6587FF"/>   
+   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-100000?style=for-the-badge&logo=Figma&logoColor=FFFFFF&labelColor=6587FF&color=6587FF"/>   
    <img align="center" alt="GIT" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>   
 
   
