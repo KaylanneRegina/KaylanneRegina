@@ -7,8 +7,8 @@
  ## 📈 &nbsp;Estatísticas dos meus códigos ## 
   
   
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KayyLanne&theme=midnight_purple) 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KayyLanne&theme=midnight_purple) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaylanneRegina&theme=midnight_purple) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaylanneRegina&theme=midnight_purple) 
   
   
   
